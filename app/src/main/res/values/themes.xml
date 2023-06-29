@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyCalculatorApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#EDEDC3</item>
+        <item name="colorPrimaryVariant">#EDEDC3</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorSecondary">#EDED9B</item>
+        <item name="colorSecondaryVariant">#F3F398</item>
+        <item name="colorOnSecondary">@color/black</item>
+    </style>
+
+    <style name="Theme.MyCalculatorApp" parent="Base.Theme.MyCalculatorApp" />
+</resources>
